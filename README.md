@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
+# <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/alaaqutfa/">Flowseal</a><a href="https://github.com/alaaqutfa/Discord-Zapret">/discord-zapret</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
 
 **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  
 Альтернатива https://github.com/bol-van/zapret-win-bundle  
@@ -221,6 +221,6 @@ sc delete название_из_первого_шага
 
 ## 🩷Благодарность участникам проекта
 
-[![Contributors](https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube)](https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=alaaqutfa/discord-zapret)](https://github.com/alaaqutfa/Discord-Zapret/graphs/contributors)
 
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
